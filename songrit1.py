@@ -1,0 +1,7 @@
+print("---Welcome to songrit SHOPPING---")
+print("โค้ก  2 ชิ้น 25 THB","รวม",2*25,"THB")
+print("โยเกริต์ 4 ชิ้น 20 THB","รวม",4*20,"THB")
+print("กาแฟ  1 ชิ้น 24 THB","รวม",1*24,"THB")
+print("เลย์   2 ชิ้น 20 THB","รวม",2*20,"THB")
+print("ยอดสุทธิ 9 ชิ้น",50+80+24+40,"THB")
+print("----------THANK YOU------------")
